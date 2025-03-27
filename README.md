@@ -1,0 +1,1 @@
+# smolWord2Vec
